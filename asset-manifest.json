@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AndrewChoyCS.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/AndrewChoyCS.github.io/static/js/main.b03ad617.js",
+    "static/js/453.7596a9ed.chunk.js": "/AndrewChoyCS.github.io/static/js/453.7596a9ed.chunk.js",
+    "static/media/last.png": "/AndrewChoyCS.github.io/static/media/last.1160e766e90e7211143c.png",
+    "static/media/BYOW.png": "/AndrewChoyCS.github.io/static/media/BYOW.77d760ebf24bb08ca192.png",
+    "static/media/car.png": "/AndrewChoyCS.github.io/static/media/car.81861aed7e755b4115d6.png",
+    "static/media/resume.png": "/AndrewChoyCS.github.io/static/media/resume.023eea9352b62c3f8ad1.png",
+    "static/media/derpy.jpeg": "/AndrewChoyCS.github.io/static/media/derpy.433aadfb7dd57e980c73.jpeg",
+    "static/media/logo-color.png": "/AndrewChoyCS.github.io/static/media/logo-color.cd9fa7215d7721ec5b85.png",
+    "static/media/image.png": "/AndrewChoyCS.github.io/static/media/image.2d0b00d02d322bc621f7.png",
+    "static/media/spam.png": "/AndrewChoyCS.github.io/static/media/spam.3dfd538f09fc60d618aa.png",
+    "index.html": "/AndrewChoyCS.github.io/index.html",
+    "main.e6c13ad2.css.map": "/AndrewChoyCS.github.io/static/css/main.e6c13ad2.css.map",
+    "main.b03ad617.js.map": "/AndrewChoyCS.github.io/static/js/main.b03ad617.js.map",
+    "453.7596a9ed.chunk.js.map": "/AndrewChoyCS.github.io/static/js/453.7596a9ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b03ad617.js"
+  ]
+}
