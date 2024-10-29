@@ -40,6 +40,21 @@ function Coursework() {
 
       <SemesterWrapper>
         <StyledPaper elevation={3}>
+          <Typography variant='h6'>Fall 2024</Typography>
+          <CourseworkItem>
+            <Typography variant='subtitle1'>• EECS 126: Probability and Random Processes</Typography>
+          </CourseworkItem>
+          <CourseworkItem>
+            <Typography variant='subtitle1'>• EECS 127: Optimization Models in Engineering</Typography>
+          </CourseworkItem>
+          <CourseworkItem>
+            <Typography variant='subtitle1'>• CS 161: Computer Security</Typography>
+          </CourseworkItem>
+        </StyledPaper>
+      </SemesterWrapper>
+
+      <SemesterWrapper>
+        <StyledPaper elevation={3}>
           <Typography variant='h6'>Spring 2024</Typography>
           <CourseworkItem>
             <Typography variant='subtitle1'>• CS 170: Efficient Algorithms and Intractable Problems</Typography>
