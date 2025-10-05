@@ -1,34 +1,33 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: Student at UC Berkeley
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cherry.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: andrewchoy@berkeley.edu
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I’m a student at the **University of California, Berkeley** studying **Computer Science** and **Data Science** with an emphasis in **Robotics**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I worked at **Google** as a Software Engineering Intern on the Google Meet Infrastructure team, where I contributed to developing scalable backend systems. I also interned at **ZoomInfo** as a Machine Learning Engineer, where I built and optimized Natural Language Processing pipelines.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition, I conducted academic research at **[LM-Arena](https://lmarena.ai/)** under **Tim Li**, working on Arena-Hard-Auto, where I focused on post-model evaluation and designing more efficient evaluation algorithms.
+
+I’m deeply interested in exploring diverse and challenging problems — always looking for what’s next!
